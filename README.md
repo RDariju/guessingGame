@@ -21,7 +21,7 @@ A simple Java Swing-based number guessing game where users try to guess a random
 git clone https://github.com/RDariju/guessingGame.git
 
 # Navigate into the project directory
-cd number-guessing-game
+cd guessingGame
 
 # Open the project in your preferred Java IDE and run Main.java
 ```
